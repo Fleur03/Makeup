@@ -1,0 +1,37 @@
+body{
+    background-color: pink;
+}
+@font-face{
+    font-family:rampart one;
+    src: url(../fronts/Rampart_One/RampartOne-Regular.ttf);
+}
+
+h1{
+    font-family: rampart one;
+    color: #ff1493;
+    text-align: center;  
+}
+
+h2{
+    font-family: rampart one;
+    color:purple;
+    text-align: center;
+
+
+
+}
+.makeupgezicht{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    
+
+}
+#gezicht{
+    width: 450px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
